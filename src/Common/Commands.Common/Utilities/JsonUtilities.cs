@@ -15,7 +15,6 @@
 using System;
 using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
-using System.Web.Script.Serialization;
 using Microsoft.WindowsAzure.Commands.Common.Properties;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
